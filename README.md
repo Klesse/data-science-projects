@@ -16,6 +16,7 @@ It has the intention to learn about different kinds of data and practice the cap
 
 1. [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 2. [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
+3. [TSE 2018-2022](https://dadosabertos.tse.jus.br/dataset/)
 
 # Author
 
