@@ -7,7 +7,7 @@ It has the intention to learn about different kinds of data and practice the cap
 
 ## 📊🔎 Exploratory Data Analysis (EDA)
 
-This projects consists in extracting valuable information about raw data. It's an import skill as an data scientist to know 
+This projects consist in extracting valuable information about raw data. It's an import skill as an data scientist to know 
 how to interpret data and have insights from it.
 
 All projects that are an EDA project has the sufix **-eda** in the folder's name.
@@ -28,8 +28,18 @@ All projects that are an EDA project has the sufix **-eda** in the folder's name
 
 ## 📊🖥️ Classification
 
-This projects consists in classifying different kinds of data to summarize and insert them into a group. It's helpful when a data scientist 
+This projects consist in classifying different kinds of data to summarize and insert them into a group. It's helpful when a data scientist 
 wants agroup data and label it based on it features.
+
+## 📊🖼️ Image Recognition
+
+Projects about image recogntion are to recognition patterns in images and label it with a name that 
+is related to the image's patterns. This projects involve computer vision, machine learning and deep learning techniques.
+
+### Datasets
+
+1. [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/data)
+
 
 # Author
 
