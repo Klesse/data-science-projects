@@ -24,7 +24,7 @@ how to interpret data and have insights from it.
 2. [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
 3. [Politician Candidates of Brazil of 2018 and 2022](https://dadosabertos.tse.jus.br/dataset/)
 
-## Classification
+## 📊🖥️ Classification
 
 This projects consists in classifying different kinds of data to summarize and insert them into a group. It's helpful when a data scientist 
 wants agroup data and label it based on it features.
