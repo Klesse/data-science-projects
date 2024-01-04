@@ -36,6 +36,8 @@ wants agroup data and label it based on it features.
 Projects about image recogntion are to recognition patterns in images and label it with a name that 
 is related to the image's patterns. This projects involve computer vision, machine learning and deep learning techniques.
 
+All projects that are an image recognition project has the sufix **-imgrec** in the folder's name.
+
 ### Datasets
 
 1. [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/data)
