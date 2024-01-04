@@ -10,6 +10,8 @@ It has the intention to learn about different kinds of data and practice the cap
 This projects consists in extracting valuable information about raw data. It's an import skill as an data scientist to know 
 how to interpret data and have insights from it.
 
+All projects that are an EDA project has the sufix **-eda** in the folder's name.
+
 ### Guideline
 
 1. Data understanding
