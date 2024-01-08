@@ -31,6 +31,8 @@ All projects that are an EDA project has the sufix **-eda** in the folder's name
 This projects consist in classifying different kinds of data to summarize and insert them into a group. It's helpful when a data scientist 
 wants agroup data and label it based on it features.
 
+1. [Bank Loan Default Predictor](https://www.kaggle.com/datasets/ankitkalauni/bank-loan-defaulter-prediction-hackathon)
+
 ## 📊🖼️ Image Recognition
 
 Projects about image recogntion are to recognition patterns in images and label it with a name that 
